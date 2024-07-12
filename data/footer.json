@@ -2,69 +2,69 @@
   "footerOne": [
     {
       "description": " We’re always in search for talented and motivated people.Don’t be shy introduce yourself!",
-      "phone": "(406) 555-0120",
-      "mail": "rainbow@example.com",
-      "address": "North America, USA",
-      "usefulLinks": [
+      "phone": "+91 9994675750",
+      "mail": "sixphrase@gmail.com",
+      "address": "17 GKD Nagar, P.N.Palayam, Coimbatore, Tamilnadu",
+      "quickLinks": [
         {
-          "text": "Marketplace",
-          "link": "/12-marketplace"
+          "text": "Learn",
+          "link": "/#"
         },
         {
-          "text": "kindergarten",
-          "link": "/04-kindergarten"
+          "text": "Intern",
+          "link": "/#"
         },
         {
-          "text": "University",
-          "link": "/13-university-classic"
+          "text": "Compete",
+          "link": "/#"
         },
         {
-          "text": "Classic Lms",
-          "link": "/05-classic-lms"
+          "text": "Jobs",
+          "link": "/#"
         },
         {
-          "text": "FAQ",
-          "link": "/pages/faqs"
+          "text": "Careers",
+          "link": "/#"
         }
       ],
       "ourCompany": [
         {
-          "text": "Contact Us",
-          "link": "/contact"
+          "text": "Institutions",
+          "link": "/#"
         },
         {
-          "text": "Become Teacher",
-          "link": "/become-a-teacher"
+          "text": "Cotact",
+          "link": "/#"
         },
         {
-          "text": "Blog",
-          "link": "/blog-list"
+          "text": "Success Story",
+          "link": "/#"
         },
         {
-          "text": "Instructor",
-          "link": "/elements/team"
+          "text": "Profile",
+          "link": "/#"
         },
         {
-          "text": "Events",
-          "link": "/pages/event-list"
+          "text": "Timeline",
+          "link": "/#"
         }
       ],
       "socialLink": [
         {
           "icon": "feather-facebook",
-          "link": "https://www.facebook.com/"
+          "link": "https://www.facebook.com/sixphraseveranda/"
         },
         {
-          "icon": "feather-twitter",
-          "link": "https://www.twitter.com"
+          "text": "𝕏",
+          "link": "https://twitter.com/sixphrase"
         },
         {
           "icon": "feather-instagram",
-          "link": "https://www.instagram.com/"
+          "link": "https://www.instagram.com/sixphraseveranda/"
         },
         {
           "icon": "feather-linkedin",
-          "link": "https://www.linkdin.com/"
+          "link": "https://www.linkedin.com/company/sixphraseveranda/"
         }
       ]
     }

@@ -5,7 +5,7 @@ import { useSelector } from "react-redux";
 import User from "../Offcanvas/User";
 import { useAppContext } from "@/context/Context";
 
-const HeaderRightTwo = ({ btnClass, btnText, userType }) => {
+const HeaderRightTwo = ({ btnClass, btnText, userType, btnText1, btnClass1 }) => {
   const { mobile, setMobile, search, setSearch, cartToggle, setCart } =
     useAppContext();
 
@@ -13,7 +13,7 @@ const HeaderRightTwo = ({ btnClass, btnText, userType }) => {
 
   return (
     <div className="header-right">
-      <ul className="quick-access">
+      {/* <ul className="quick-access">
         <li className="access-icon">
           <Link
             className={`search-trigger-active rbt-round-btn ${
@@ -51,11 +51,28 @@ const HeaderRightTwo = ({ btnClass, btnText, userType }) => {
           </Link>
           <User />
         </li>
-      </ul>
+      </ul> */}
 
       <div className="rbt-btn-wrapper d-none d-xl-block">
         <Link className={`rbt-btn ${btnClass}`} href="#">
           <span data-text={`${btnText}`}>{btnText}</span>
+        </Link>
+      </div>
+
+      {/* <div className="mobile-menu-bar d-block d-xl-none">
+        <div className="hamberger">
+          <button
+            className="hamberger-button rbt-round-btn"
+            onClick={() => setMobile(!mobile)}
+          >
+            <i className="feather-menu"></i>
+          </button>
+        </div>
+      </div> */}
+
+      <div className="rbt-btn-wrapper d-none d-xl-block ml--20">
+        <Link className={`rbt-btn ${btnClass1}`} href="#">
+          <span data-text={`${btnText1}`}>{btnText1}</span>
         </Link>
       </div>
 

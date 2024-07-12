@@ -123,10 +123,15 @@
   "aboutSix": [
     {
       "tag": "ABOUT HISTUDY",
-      "title": "What is Histudy For You?.",
-      "strong": "Histudy educational platform",
-      "desc": "ipsum dolor sit amet consectetur adipisicing elit. Nam inventore praesentium alias incidunt! Veritatis, necessitatibus fuga dolore tenetur, beatae suscipit fugit est ea perspiciatis quo provident nisi dolor similique architecto nihil.",
-      "img": "/images/about/about-06.png"
+      "title": "Level Up Your ",
+      "subTitle": "Skills",
+      "strong": "Lorem Ipsum is simply dummy text",
+      "desc": "of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+      "desc2": "when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+      "img": "/images/home/level-up-skill-img-1.png",
+      "course": "30+ Courses",
+      "certificate": "Certificate",
+      "project": "Projects & Assignments"
     }
   ],
   "aboutSaven": [

@@ -13,16 +13,16 @@ import FooterThree from "@/components/Footer/Footer-Three";
 const Home = () => {
   return (
     <>
-      <PageHead title="Home - Sixpharse" />
+      <PageHead title="Home - Sixphrase" />
 
       <Provider store={Store}>
         <Context>
           <MobileMenu />
           <HeaderStyleTen headerSticky="rbt-sticky" headerType="" />
           <MainDemo />
-          <Cart />
+          {/* <Cart /> */}
 
-          <Separator />
+          {/* <Separator /> */}
           <FooterThree />
         </Context>
       </Provider>

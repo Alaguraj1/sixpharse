@@ -96,21 +96,25 @@
     position: relative;
     z-index: 1;
 
-    &::after {
-        content: '';
-        display: block;
-        position: absolute;
-        right: 0;
-        height: 100%;
-        width: 100%;
-        background: url(../../images/shape/dots.png) repeat center/auto;
-        top: 0;
-        z-index: -1;
-    }
+    // &::after {
+    //     content: '';
+    //     display: block;
+    //     position: absolute;
+    //     right: 0;
+    //     height: 100%;
+    //     width: 100%;
+    //     background: url(../../images/shape/dots.png) repeat center/auto;
+    //     top: 0;
+    //     z-index: -1;
+    // }
 
     .note-text {
         font-size: 14px;
         display: block;
         opacity: 0.9;
     }
+}
+
+.newsletter-bg {
+    background-color: #eff8ff;
 }

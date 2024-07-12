@@ -75,10 +75,10 @@ fieldset:disabled {
     &.btn-white {
         box-shadow: var(--shadow-1);
         background: var(--color-white);
-        color: var(--color-heading);
+        color: #73b558;
 
         &:hover {
-            background: var(--color-primary);
+            background: #73b558;
             color: var(--color-white);
         }
     }
@@ -107,12 +107,16 @@ fieldset:disabled {
         }
     }
 
+    &.btn-blue{
+        background: #136b9b;
+    }
+
 
     // Gradient varient 
     &.btn-gradient {
         color: var(--color-white);
         background-size: 300% 100%;
-        background-image: linear-gradient(to right, var(--color-primary), var(--color-secondary), var(--color-secondary), var(--color-primary));
+        background-image: linear-gradient(to right, #0e689f, #6caf5d, #6caf5d, #0e689f);
 
         &.btn-gradient-2 {
             background-image: linear-gradient(to right, var(--color-pink), var(--color-violet), var(--color-violet), var(--color-pink));
@@ -475,7 +479,7 @@ fieldset:disabled {
 
 
     &:hover {
-        background-color: var(--color-secondary);
+        background-color:#73b558;
         color: var(--color-white);
         transform: translate3d(0, -2px, 0);
         box-shadow: var(--shadow-7);
@@ -565,8 +569,8 @@ fieldset:disabled {
     &.btn-sm {
         padding: 0 22px;
         font-size: var(--font-size-b3);
-        height: 45px;
-        line-height: 43px;
+        height: 35px;
+        line-height: 33px;
 
         @media #{$sm-layout} {
             padding: 0 10px;
@@ -637,7 +641,7 @@ fieldset:disabled {
     }
 
     &.btn-border-gradient {
-        background: linear-gradient(90deg, #CFA2E8, #637FEA);
+        background: linear-gradient(90deg, #005997, #64ad48);
         border: none;
         outline: none;
         cursor: pointer;

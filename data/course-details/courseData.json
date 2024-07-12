@@ -2,9 +2,9 @@
   "courseDetails": [
     {
       "id": 1,
-      "courseTitle": "Lorem ipsum",
+      "courseTitle": "Subscipit adipiscing bibendum ultricies",
       "category": "Web Design",
-      "courseType": "featured",
+      "courseType": "commerce",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, voluptate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, voluptate.",
       "lesson": 12,
       "review": 15,
@@ -19,7 +19,7 @@
       "cateSmallImg": "/images/category/web-design.png",
       "cateBigImg": "/images/category/image/web-design.jpg",
       "userImg": "/images/client/avatar-02.png",
-      "courseImg": "/images/home/banner-inner-img.jpg",
+      "courseImg": "/images/home/learn-img-1.png",
       "courseListImg": "/images/course/course-list-01.jpg",
       "awardImg": "/images/icons/card-icon-1.png",
       "days": "3",
@@ -547,7 +547,7 @@
       "id": 2,
       "courseTitle": "Lorem ipsum",
       "category": "Backend",
-      "courseType": "latest",
+      "courseType": "mba",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, voluptate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, voluptate.",
       "lesson": 12,
       "review": 15,
@@ -1087,9 +1087,9 @@
     },
     {
       "id": 3,
-      "courseTitle": "Lorem ipsum",
+      "courseTitle": "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
       "category": "Full Stack",
-      "courseType": "featured",
+      "courseType": "commerce",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, voluptate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, voluptate.",
       "lesson": 12,
       "review": 15,
@@ -1106,7 +1106,7 @@
       "cateSmallImg": "/images/category/personal.png",
       "cateBigImg": "/images/category/image/personal-development.jpg",
       "userImg": "/images/client/avatar-04.png",
-      "courseImg": "/images/home/banner-inner-img.jpg",
+      "courseImg": "/images/home/learn-img-2.png",
       "courseListImg": "/images/course/course-list-03.jpg",
       "awardImg": "/images/icons/best-seller-icon.png",
       "userName": "Levi Arm",
@@ -1619,9 +1619,9 @@
     },
     {
       "id": 4,
-      "courseTitle": "The Complete Histudy 2024: From Zero to Expert!",
+      "courseTitle": "Lorem ipsum",
       "category": "Mobile Application",
-      "courseType": "popular",
+      "courseType": "technology",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -2156,9 +2156,9 @@
     },
     {
       "id": 5,
-      "courseTitle": "Difficult Things About Education.",
+      "courseTitle": "Subscipit adipiscing bibendum ultricies",
       "category": "Backend",
-      "courseType": "featured",
+      "courseType": "commerce",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -2175,7 +2175,7 @@
       "cateSmallImg": "/images/category/pantone.png",
       "cateBigImg": "/images/category/image/software.jpg",
       "userImg": "/images/client/avatar-03.png",
-      "courseImg": "/images/course/classic-lms-02.jpg",
+      "courseImg": "/images/home/learn-img-3.png",
       "courseListImg": "/images/course/course-list-05.jpg",
       "awardImg": "/images/icons/card-icon-1.png",
       "userName": "Fred Guer",
@@ -2693,7 +2693,7 @@
       "id": 6,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Finance & Accounting",
-      "courseType": "popular",
+      "courseType": "technology",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -3228,7 +3228,7 @@
       "id": 7,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Graphic Design",
-      "courseType": "trending",
+      "courseType": "data science",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -3766,7 +3766,7 @@
       "id": 8,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Graphic Design",
-      "courseType": "popular",
+      "courseType": "technology",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -4304,7 +4304,7 @@
       "id": 9,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Personal Development",
-      "courseType": "latest",
+      "courseType": "mba",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -4842,7 +4842,7 @@
       "id": 10,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Personal Development",
-      "courseType": "trending",
+      "courseType": "data science",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -5380,7 +5380,7 @@
       "id": 11,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "IT and Software",
-      "courseType": "featured",
+      "courseType": "commerce",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -5397,7 +5397,7 @@
       "cateSmallImg": "/images/category/personal.png",
       "cateBigImg": "/images/category/image/personal-development.jpg",
       "userImg": "/images/client/avatar-04.png",
-      "courseImg": "/images/course/classic-lms-05.jpg",
+      "courseImg": "/images/home/learn-img-4.png",
       "courseListImg": "/images/course/course-list-04.jpg",
       "awardImg": "/images/icons/best-seller-icon.png",
       "userName": "Levi Arm",
@@ -5918,7 +5918,1083 @@
       "id": 12,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Art & Humanities",
-      "courseType": "trending",
+      "courseType": "employability skills",
+      "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+      "lesson": 12,
+      "review": 15,
+      "price": 90,
+      "offPrice": 40,
+      "student": 50,
+      "discount": 40,
+      "sellsType": "Bestseller",
+      "star": "4.8",
+      "ratingNumber": "215,475",
+      "days": "1",
+      "isActiveCate": false,
+      "studentNumber": "616,029",
+      "cateSmallImg": "/images/category/server.png",
+      "cateBigImg": "/images/category/image/mobile.jpg",
+      "userImg": "/images/client/avatar-04.png",
+      "courseImg": "/images/course/course-online-04.jpg",
+      "courseListImg": "/images/course/course-list-03.jpg",
+      "awardImg": "/images/icons/best-seller-icon.png",
+      "userName": "Levi Arm",
+      "userCategory": "Advanced Educator",
+      "cateDesc": "Design is Art",
+      "date": "12/2024",
+      "language": "English",
+      "courseAward": "Certified Course",
+      "courseFor": ["Full Stack", "Development"],
+      "courseOverview": [
+        {
+          "title": "What you'll learn",
+          "desc": "Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi and ending the course by building a CMS system similar to WordPress, Joomla or Drupal. Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world.",
+          "descTwo": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, aliquam voluptas laudantium incidunt architecto nam excepturi provident rem laborum repellendus placeat neque aut doloremque ut ullam, veritatis nesciunt iusto officia alias, non est vitae. Eius repudiandae optio quam alias aperiam nemo nam tempora, dignissimos dicta excepturi ea quo ipsum omnis maiores perferendis commodi voluptatum facere vel vero. Praesentium quisquam iure veritatis, perferendis adipisci sequi blanditiis quidem porro eligendi fugiat facilis inventore amet delectus expedita deserunt ut molestiae modi laudantium, quia tenetur animi natus ea. Molestiae molestias ducimus pariatur et consectetur. Error vero, eum soluta delectus necessitatibus eligendi numquam hic at?",
+          "overviewList": [
+            {
+              "listItem": "Become an advanced, confident, and modern JavaScript developer from scratch."
+            },
+            {
+              "listItem": "Have an intermediate skill level of Python programming."
+            },
+            {
+              "listItem": "Have a portfolio of various data analysis projects."
+            },
+            {
+              "listItem": "Use the numpy library to create and manipulate arrays."
+            },
+            {
+              "listItem": "Use the Jupyter Notebook Environment. JavaScript developer from scratch."
+            },
+            {
+              "listItem": "Use the pandas module with Python to create and structure data."
+            },
+            {
+              "listItem": "Have a portfolio of various data analysis projects."
+            },
+            {
+              "listItem": "Create data visualizations using matplotlib and the seaborn."
+            }
+          ]
+        }
+      ],
+      "courseContent": [
+        {
+          "title": "Course Content",
+          "contentList": [
+            {
+              "title": "Intro to Course and Histudy",
+              "time": "1hr 30min",
+              "collapsed": true,
+              "isShow": true,
+              "expand": true,
+              "listItem": [
+                {
+                  "text": "Course Intro",
+                  "time": "30min",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Watch Before Start",
+                  "time": "0.5min",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Course Fundamentals",
+              "time": "2hr 30min",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Course Intro",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Why You Should Not Go To Education",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Ten Factors That Affect Education's Longevity.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "You can develop skill and setup",
+              "time": "1hr 50min",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Course Intro",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Why You Should Not Go To Education",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Ten Factors That Affect Education's Longevity.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "15 Things To Know About Education?",
+              "time": "2hr 60min",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Course Intro",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Why You Should Not Go To Education",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Ten Factors That Affect Education's Longevity.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Course Description",
+              "time": "2hr 20min",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Course Intro",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Why You Should Not Go To Education",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Ten Factors That Affect Education's Longevity.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "courseRequirement": [
+        {
+          "title": "Requirements",
+          "detailsList": [
+            {
+              "listItem": "Become an advanced, confident, and modern JavaScript developer from scratch."
+            },
+            {
+              "listItem": "Have an intermediate skill level of Python programming."
+            },
+            {
+              "listItem": "Have a portfolio of various data analysis projects."
+            },
+            {
+              "listItem": "Use the numpy library to create and manipulate arrays."
+            }
+          ]
+        },
+        {
+          "title": "Description",
+          "detailsList": [
+            {
+              "listItem": "Use the Jupyter Notebook Environment. JavaScript developer from scratch."
+            },
+            {
+              "listItem": "Use the pandas module with Python to create and structure data."
+            },
+            {
+              "listItem": "Have a portfolio of various data analysis projects."
+            },
+            {
+              "listItem": "Create data visualizations using matplotlib and the seaborn."
+            }
+          ]
+        }
+      ],
+      "courseInstructor": [
+        {
+          "title": "Instructor",
+          "body": [
+            {
+              "id": 3,
+              "img": "/images/client/avatar-04.png",
+              "awardImg": "/images/icons/best-seller-icon.png",
+              "sellsType": "Bestseller",
+              "contact": "+1-202-555-0174",
+              "mail": "example@gmail.com",
+              "name": "Levi Arm",
+              "type": "Advanced Educator",
+              "ratingNumber": "215,475",
+              "studentNumber": "616,029",
+              "star": "4.8",
+              "course": "15",
+              "desc": "Levi Arm is a brilliant educator, whose life was spent for computer science and love of nature.",
+              "social": [
+                {
+                  "link": "https://www.facebook.com",
+                  "icon": "facebook"
+                },
+                {
+                  "link": "https://www.twitter.com",
+                  "icon": "twitter"
+                },
+                {
+                  "link": "https://www.instagram.com",
+                  "icon": "instagram"
+                },
+                {
+                  "link": "https://www.linkdin.com",
+                  "icon": "linkedin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "featuredReview": [
+        {
+          "title": "Featured review",
+          "body": [
+            {
+              "userImg": "/images/testimonial/testimonial-3.jpg",
+              "userName": "Farjana Bawnia",
+              "desc": "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            },
+            {
+              "userImg": "/images/testimonial/testimonial-4.jpg",
+              "userName": "Razwan Islam",
+              "desc": "At 25 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            },
+            {
+              "userImg": "/images/testimonial/testimonial-1.jpg",
+              "userName": "Babor Azom",
+              "desc": "My favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            },
+            {
+              "userImg": "/images/testimonial/testimonial-6.jpg",
+              "userName": "Mohammad Ali",
+              "desc": "My favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            },
+            {
+              "userImg": "/images/testimonial/testimonial-2.jpg",
+              "userName": "Sakib Al Hasan",
+              "desc": "At 28 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            }
+          ]
+        }
+      ],
+      "relatedCourse": [
+        {
+          "userName": "Levi Arm",
+          "userCategory": "Advanced Educator",
+          "body": [
+            {
+              "id": 3,
+              "title": "React Front To Back",
+              "author": "Levi Arm",
+              "post": "Advanced Educator",
+              "link": "/course-details",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-04.png",
+              "desc": "It is a long established fact that a reader will be distracted.",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            },
+            {
+              "id": 3,
+              "title": "PHP Beginner Advanced",
+              "author": "Levi Arm",
+              "post": "Advanced Educator",
+              "link": "/course-details",
+              "img": "/images/course/course-online-02.jpg",
+              "avatar": "/images/client/avatar-04.png",
+              "desc": "It is a long established fact that a reader will be distracted.",
+              "button": true,
+              "rating": 15,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            }
+          ]
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Hrs 20 Min"
+        },
+        {
+          "text": "Enrolled",
+          "desc": "100"
+        },
+        {
+          "text": "Lectures",
+          "desc": "50"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Language",
+          "desc": "English"
+        },
+        {
+          "text": "Quizzes",
+          "desc": "10"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Pass Percentage",
+          "desc": "95"
+        }
+      ],
+      "similarCourse": [
+        {
+          "title": "React Front To Back",
+          "author": "Robert",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-05.jpg",
+          "avatar": "/images/client/avater-01.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": false,
+          "rating": 15,
+          "discount": 40,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "title": "PHP Beginner Advanced",
+          "author": "Angela",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-04.jpg",
+          "avatar": "/images/client/avatar-02.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": true,
+          "rating": 15,
+          "discount": 0,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "title": "Angular Zero to Mastery",
+          "author": "Slaughter",
+          "post": "Languages",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-06.jpg",
+          "avatar": "/images/client/avatar-03.png",
+          "desc": "Angular Js long fact that a reader will be distracted by the readable.",
+          "button": false,
+          "rating": 5,
+          "discount": 10,
+          "lesson": 8,
+          "student": 30,
+          "price": 80,
+          "offPrice": 100
+        }
+      ],
+      "subCategories": [
+        {
+          "cate": "Healthcare"
+        },
+        {
+          "cate": "Beauty & fashion"
+        },
+        {
+          "cate": "Education & Travel"
+        },
+        {
+          "cate": "Kitchen"
+        },
+        {
+          "cate": "Medicle & entertain"
+        },
+        {
+          "cate": "Medicle & Science"
+        },
+        {
+          "cate": "Tour & Travel"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "courseTitle": "Five Things You Should Do In Education.",
+      "category": "Art & Humanities",
+      "courseType": "data science",
+      "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+      "lesson": 12,
+      "review": 15,
+      "price": 90,
+      "offPrice": 40,
+      "student": 50,
+      "discount": 40,
+      "sellsType": "Bestseller",
+      "star": "4.8",
+      "ratingNumber": "215,475",
+      "days": "1",
+      "isActiveCate": false,
+      "studentNumber": "616,029",
+      "cateSmallImg": "/images/category/server.png",
+      "cateBigImg": "/images/category/image/mobile.jpg",
+      "userImg": "/images/client/avatar-04.png",
+      "courseImg": "/images/course/course-online-04.jpg",
+      "courseListImg": "/images/course/course-list-03.jpg",
+      "awardImg": "/images/icons/best-seller-icon.png",
+      "userName": "Levi Arm",
+      "userCategory": "Advanced Educator",
+      "cateDesc": "Design is Art",
+      "date": "12/2024",
+      "language": "English",
+      "courseAward": "Certified Course",
+      "courseFor": ["Full Stack", "Development"],
+      "courseOverview": [
+        {
+          "title": "What you'll learn",
+          "desc": "Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi and ending the course by building a CMS system similar to WordPress, Joomla or Drupal. Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world.",
+          "descTwo": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, aliquam voluptas laudantium incidunt architecto nam excepturi provident rem laborum repellendus placeat neque aut doloremque ut ullam, veritatis nesciunt iusto officia alias, non est vitae. Eius repudiandae optio quam alias aperiam nemo nam tempora, dignissimos dicta excepturi ea quo ipsum omnis maiores perferendis commodi voluptatum facere vel vero. Praesentium quisquam iure veritatis, perferendis adipisci sequi blanditiis quidem porro eligendi fugiat facilis inventore amet delectus expedita deserunt ut molestiae modi laudantium, quia tenetur animi natus ea. Molestiae molestias ducimus pariatur et consectetur. Error vero, eum soluta delectus necessitatibus eligendi numquam hic at?",
+          "overviewList": [
+            {
+              "listItem": "Become an advanced, confident, and modern JavaScript developer from scratch."
+            },
+            {
+              "listItem": "Have an intermediate skill level of Python programming."
+            },
+            {
+              "listItem": "Have a portfolio of various data analysis projects."
+            },
+            {
+              "listItem": "Use the numpy library to create and manipulate arrays."
+            },
+            {
+              "listItem": "Use the Jupyter Notebook Environment. JavaScript developer from scratch."
+            },
+            {
+              "listItem": "Use the pandas module with Python to create and structure data."
+            },
+            {
+              "listItem": "Have a portfolio of various data analysis projects."
+            },
+            {
+              "listItem": "Create data visualizations using matplotlib and the seaborn."
+            }
+          ]
+        }
+      ],
+      "courseContent": [
+        {
+          "title": "Course Content",
+          "contentList": [
+            {
+              "title": "Intro to Course and Histudy",
+              "time": "1hr 30min",
+              "collapsed": true,
+              "isShow": true,
+              "expand": true,
+              "listItem": [
+                {
+                  "text": "Course Intro",
+                  "time": "30min",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Watch Before Start",
+                  "time": "0.5min",
+                  "status": true,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Course Fundamentals",
+              "time": "2hr 30min",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Course Intro",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Why You Should Not Go To Education",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Ten Factors That Affect Education's Longevity.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "You can develop skill and setup",
+              "time": "1hr 50min",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Course Intro",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Why You Should Not Go To Education",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Ten Factors That Affect Education's Longevity.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "15 Things To Know About Education?",
+              "time": "2hr 60min",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Course Intro",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Why You Should Not Go To Education",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Ten Factors That Affect Education's Longevity.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            },
+            {
+              "title": "Course Description",
+              "time": "2hr 20min",
+              "collapsed": false,
+              "isShow": false,
+              "expand": false,
+              "listItem": [
+                {
+                  "text": "Course Intro",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Why You Should Not Go To Education",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                },
+                {
+                  "text": "Ten Factors That Affect Education's Longevity.",
+                  "time": "",
+                  "status": false,
+                  "playIcon": true
+                },
+                {
+                  "text": "Read Before You Start",
+                  "time": "",
+                  "status": false,
+                  "playIcon": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "courseRequirement": [
+        {
+          "title": "Requirements",
+          "detailsList": [
+            {
+              "listItem": "Become an advanced, confident, and modern JavaScript developer from scratch."
+            },
+            {
+              "listItem": "Have an intermediate skill level of Python programming."
+            },
+            {
+              "listItem": "Have a portfolio of various data analysis projects."
+            },
+            {
+              "listItem": "Use the numpy library to create and manipulate arrays."
+            }
+          ]
+        },
+        {
+          "title": "Description",
+          "detailsList": [
+            {
+              "listItem": "Use the Jupyter Notebook Environment. JavaScript developer from scratch."
+            },
+            {
+              "listItem": "Use the pandas module with Python to create and structure data."
+            },
+            {
+              "listItem": "Have a portfolio of various data analysis projects."
+            },
+            {
+              "listItem": "Create data visualizations using matplotlib and the seaborn."
+            }
+          ]
+        }
+      ],
+      "courseInstructor": [
+        {
+          "title": "Instructor",
+          "body": [
+            {
+              "id": 3,
+              "img": "/images/client/avatar-04.png",
+              "awardImg": "/images/icons/best-seller-icon.png",
+              "sellsType": "Bestseller",
+              "contact": "+1-202-555-0174",
+              "mail": "example@gmail.com",
+              "name": "Levi Arm",
+              "type": "Advanced Educator",
+              "ratingNumber": "215,475",
+              "studentNumber": "616,029",
+              "star": "4.8",
+              "course": "15",
+              "desc": "Levi Arm is a brilliant educator, whose life was spent for computer science and love of nature.",
+              "social": [
+                {
+                  "link": "https://www.facebook.com",
+                  "icon": "facebook"
+                },
+                {
+                  "link": "https://www.twitter.com",
+                  "icon": "twitter"
+                },
+                {
+                  "link": "https://www.instagram.com",
+                  "icon": "instagram"
+                },
+                {
+                  "link": "https://www.linkdin.com",
+                  "icon": "linkedin"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "featuredReview": [
+        {
+          "title": "Featured review",
+          "body": [
+            {
+              "userImg": "/images/testimonial/testimonial-3.jpg",
+              "userName": "Farjana Bawnia",
+              "desc": "At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            },
+            {
+              "userImg": "/images/testimonial/testimonial-4.jpg",
+              "userName": "Razwan Islam",
+              "desc": "At 25 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            },
+            {
+              "userImg": "/images/testimonial/testimonial-1.jpg",
+              "userName": "Babor Azom",
+              "desc": "My favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            },
+            {
+              "userImg": "/images/testimonial/testimonial-6.jpg",
+              "userName": "Mohammad Ali",
+              "desc": "My favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            },
+            {
+              "userImg": "/images/testimonial/testimonial-2.jpg",
+              "userName": "Sakib Al Hasan",
+              "desc": "At 28 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top."
+            }
+          ]
+        }
+      ],
+      "relatedCourse": [
+        {
+          "userName": "Levi Arm",
+          "userCategory": "Advanced Educator",
+          "body": [
+            {
+              "id": 3,
+              "title": "React Front To Back",
+              "author": "Levi Arm",
+              "post": "Advanced Educator",
+              "link": "/course-details",
+              "img": "/images/course/course-online-01.jpg",
+              "avatar": "/images/client/avatar-04.png",
+              "desc": "It is a long established fact that a reader will be distracted.",
+              "button": false,
+              "rating": 15,
+              "discount": 40,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            },
+            {
+              "id": 3,
+              "title": "PHP Beginner Advanced",
+              "author": "Levi Arm",
+              "post": "Advanced Educator",
+              "link": "/course-details",
+              "img": "/images/course/course-online-02.jpg",
+              "avatar": "/images/client/avatar-04.png",
+              "desc": "It is a long established fact that a reader will be distracted.",
+              "button": true,
+              "rating": 15,
+              "lesson": 12,
+              "student": 50,
+              "price": 60,
+              "offPrice": 20
+            }
+          ]
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Hrs 20 Min"
+        },
+        {
+          "text": "Enrolled",
+          "desc": "100"
+        },
+        {
+          "text": "Lectures",
+          "desc": "50"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Language",
+          "desc": "English"
+        },
+        {
+          "text": "Quizzes",
+          "desc": "10"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Pass Percentage",
+          "desc": "95"
+        }
+      ],
+      "similarCourse": [
+        {
+          "title": "React Front To Back",
+          "author": "Robert",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-05.jpg",
+          "avatar": "/images/client/avater-01.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": false,
+          "rating": 15,
+          "discount": 40,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "title": "PHP Beginner Advanced",
+          "author": "Angela",
+          "post": "Development",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-04.jpg",
+          "avatar": "/images/client/avatar-02.png",
+          "desc": "It is a long established fact that a reader will be distracted.",
+          "button": true,
+          "rating": 15,
+          "discount": 0,
+          "lesson": 12,
+          "student": 50,
+          "price": 60,
+          "offPrice": 20
+        },
+        {
+          "title": "Angular Zero to Mastery",
+          "author": "Slaughter",
+          "post": "Languages",
+          "link": "/course-details",
+          "linkTwo": "/profile",
+          "img": "/images/course/course-online-06.jpg",
+          "avatar": "/images/client/avatar-03.png",
+          "desc": "Angular Js long fact that a reader will be distracted by the readable.",
+          "button": false,
+          "rating": 5,
+          "discount": 10,
+          "lesson": 8,
+          "student": 30,
+          "price": 80,
+          "offPrice": 100
+        }
+      ],
+      "subCategories": [
+        {
+          "cate": "Healthcare"
+        },
+        {
+          "cate": "Beauty & fashion"
+        },
+        {
+          "cate": "Education & Travel"
+        },
+        {
+          "cate": "Kitchen"
+        },
+        {
+          "cate": "Medicle & entertain"
+        },
+        {
+          "cate": "Medicle & Science"
+        },
+        {
+          "cate": "Tour & Travel"
+        }
+      ]
+    },
+        {
+      "id": 14,
+      "courseTitle": "Five Things You Should Do In Education.",
+      "category": "Art & Humanities",
+      "courseType": "company based training",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -9738,9 +10814,9 @@
   "courseTab":[
     {
       "id": 13,
-      "courseTitle": "The Complete Histudy 2024: From Zero to Expert!",
+      "courseTitle": "Lorem ipsum",
       "category": "Web Design",
-      "courseType": "featured",
+      "courseType": "commerce",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -10282,7 +11358,7 @@
       "id": 14,
       "courseTitle": "Difficult Things About Education.",
       "category": "Backend",
-      "courseType": "latest",
+      "courseType": "mba",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -10823,7 +11899,7 @@
       "id": 15,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Full Stack",
-      "courseType": "featured",
+      "courseType": "commerce",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -11352,9 +12428,9 @@
     },
     {
       "id": 16,
-      "courseTitle": "The Complete Histudy 2024: From Zero to Expert!",
+      "courseTitle": "Lorem ipsum",
       "category": "Mobile Application",
-      "courseType": "popular",
+      "courseType": "technology",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -11890,7 +12966,7 @@
       "id": 17,
       "courseTitle": "Difficult Things About Education.",
       "category": "Backend",
-      "courseType": "featured",
+      "courseType": "commerce",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -12424,7 +13500,7 @@
       "id": 18,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Finance & Accounting",
-      "courseType": "popular",
+      "courseType": "technology",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -12958,7 +14034,7 @@
       "id": 19,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Graphic Design",
-      "courseType": "trending",
+      "courseType": "data science",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -13495,7 +14571,7 @@
       "id": 20,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Graphic Design",
-      "courseType": "popular",
+      "courseType": "technology",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -14032,7 +15108,7 @@
       "id": 21,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Personal Development",
-      "courseType": "latest",
+      "courseType": "mba",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -14569,7 +15645,7 @@
       "id": 22,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Personal Development",
-      "courseType": "trending",
+      "courseType": "data science",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -15106,7 +16182,7 @@
       "id": 23,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "IT and Software",
-      "courseType": "featured",
+      "courseType": "commerce",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,
@@ -15643,7 +16719,7 @@
       "id": 24,
       "courseTitle": "Five Things You Should Do In Education.",
       "category": "Art & Humanities",
-      "courseType": "trending",
+      "courseType": "data science",
       "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
       "lesson": 12,
       "review": 15,

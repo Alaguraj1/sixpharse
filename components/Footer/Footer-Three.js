@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import logo from "../../public/images/logo/logo.png";
+import logo from "../../public/images/home/footer-logo.png";
 import logoLight from "../../public/images/dark/logo/logo-light.png";
 
 import FooterData from "../../data/footer.json";
@@ -10,7 +10,7 @@ import CopyRight from "./CopyRight";
 import { useAppContext } from "@/context/Context";
 
 const FooterThree = () => {
-  const { isLightTheme } = useAppContext();
+  // const { isLightTheme } = useAppContext();
   return (
     <>
       <footer className="rbt-footer footer-style-1">
@@ -23,15 +23,15 @@ const FooterThree = () => {
                     <div className="footer-widget">
                       <div className="logo">
                         <Link href="/">
-                          {isLightTheme ? (
+                          {/* {isLightTheme ? ( */}
                             <Image
                               src={logo}
-                              width={152}
+                              width={200}
                               height={50}
                               priority={true}
                               alt="Education Logo Images"
                             />
-                          ) : (
+                          {/* ) : (
                             <Image
                               src={logoLight}
                               width={152}
@@ -39,7 +39,7 @@ const FooterThree = () => {
                               priority={true}
                               alt="Education Logo Images"
                             />
-                          )}
+                          )} */}
                         </Link>
                       </div>
 
@@ -66,13 +66,13 @@ const FooterThree = () => {
 
                   <SingleFooter
                     classOne="offset-lg-1 col-lg-2 col-md-6 col-sm-6 col-12 mt--30"
-                    title="Useful Links"
-                    footerType={footer.usefulLinks}
+                    title="Quick Links"
+                    footerType={footer.quickLinks}
                   />
 
                   <SingleFooter
                     classOne="col-lg-2 col-md-6 col-sm-6 col-12 mt--30"
-                    title="Our Company"
+                    title=""
                     footerType={footer.ourCompany}
                   />
 
@@ -82,11 +82,11 @@ const FooterThree = () => {
                       <ul className="ft-link">
                         <li>
                           <span>Phone:</span>{" "}
-                          <Link href="#">{footer.phone}</Link>
+                          <Link href={`tel:${footer.phone}`}>{footer.phone}</Link>
                         </li>
                         <li>
                           <span>E-mail:</span>{" "}
-                          <Link href="mailto:hr@example.com">
+                          <Link href={`mailto:${footer.mail}`}>
                             {footer.mail}
                           </Link>
                         </li>
@@ -98,7 +98,10 @@ const FooterThree = () => {
                         {footer.socialLink.map((value, innerIndex) => (
                           <li key={innerIndex}>
                             <Link href={value.link}>
-                              <i className={value.icon}></i>
+                            {
+                              value.icon ? 
+                              <i className={value.icon}></i> : <span>{value.text}</span>
+                            }
                             </Link>
                           </li>
                         ))}

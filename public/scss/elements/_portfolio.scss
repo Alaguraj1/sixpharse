@@ -14,16 +14,16 @@
     button,
     a {
         border: 0 none;
-        padding: 0px 35px;
+        padding: 0px 15px;
         text-transform: capitalize;
         background: var(--color-white);
         color: var(--color-body);
         margin: 10px;
         box-shadow: var(--shadow-1);
-        height: 65px;
-        line-height: 65px;
+        height: 35px;
+        line-height: 35px;
         border-radius: 500px;
-        font-size: 18px;
+        font-size: 16px;
         letter-spacing: -0.6px;
         transition: 0.4s;
         position: relative;
@@ -62,10 +62,14 @@
         &.is-checked,
         &.active,
         &:hover {
-            background-color: var(--color-primary);
+            background-color: #136b9b;
             color: var(--color-white) !important;
         }
     }
+}
+
+.light-blue-bg{
+    background-color: #eff8ff;
 }
 
 .filter-tab-button,

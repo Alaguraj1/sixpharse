@@ -6,8 +6,8 @@
 -------------------------*/
 .footer-style-1 {
     .footer-top {
-        padding-top: 80px;
-        padding-bottom: 90px;
+        padding-top: 50px;
+        padding-bottom: 50px;
         @media #{$sm-layout} {
             padding-top: 60px;
             padding-bottom: 60px;
@@ -21,7 +21,7 @@
         }
     }
     .description {
-        font-size: 16px;
+        font-size: 14px;
         line-height: 25px;
     }
     .newsletter-form  {
@@ -60,7 +60,7 @@
         li {
             margin: 0;
             color: var(--color-body);
-            font-size: 16px;
+            font-size: 14px;
             line-height: 25px;
             span {
                 font-weight: 500;
@@ -82,7 +82,7 @@
                     transition: transform 0.3s;
                 }
                 &:hover {
-                    color: var(--color-primary) !important;
+                    color: #136b9b !important;
                     &:after {
                         transform-origin: bottom left;
                         transform: scaleX(1);

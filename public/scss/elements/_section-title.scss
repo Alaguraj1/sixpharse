@@ -6,13 +6,13 @@
     display: inline-block;
     z-index: 1;
     &.rbt-new-badge-one {
-        color: var(--color-heading);
-        font-size: 16px;
+        color:white;
+        font-size: 14px;
         font-weight: var(--f-medium);
         line-height: 1;
-        padding: 19px 24px 21px 20px;
+        padding: 15px 24px 15px 20px;
         box-shadow: 0 15px 40px #d2d3e2a1;
-        background: #fff;
+        background:   #0c66a1;
         border-radius: 4px;
         @media #{$sm-layout} {
             font-size: 14px;
@@ -26,10 +26,10 @@
             -webkit-transform: translateY(-50%);
             -moz-transform: translateY(-50%);
             transform: translateY(-50%);
-            height: 45px;
+            height: 37px;
             width: -moz-calc(100% + 38px);
             width: calc(100% + 38px);
-            background: rgba(255,255,255,0.5);
+            background: #73b558;
             -webkit-box-shadow: 0 0 29px #d1d3ed63;
             box-shadow: 0 0 29px #d1d3ed63;
             z-index: -1;

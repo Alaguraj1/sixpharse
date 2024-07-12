@@ -6,7 +6,7 @@
         {
           "title": "Best Coaching",
           "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima error reiciendis.",
-          "img": "/images/icons/card-icon-1.png",
+          "img": "/images/home/trending-img-1.png",
           "bgOne": true,
           "bgTwo": false,
           "bgThree": false,
@@ -71,7 +71,7 @@
         {
           "title": "React",
           "desc": "React Js dolor sit, amet consectetur.",
-          "img": "/images/service/service-06.png",
+          "img": "/images/home/trending-img-1.png",
           "bgOne": true,
           "bgTwo": false,
           "bgThree": false,
@@ -80,7 +80,7 @@
         {
           "title": "English",
           "desc": "Spken english dolor sit, amet consectetur.",
-          "img": "/images/service/service-05.png",
+          "img": "/images/home/trending-img-2.png",
           "bgTwo": true,
           "bgOne": false,
           "bgThree": false,
@@ -89,7 +89,7 @@
         {
           "title": "Education",
           "desc": "Eearning edu dolor sit, amet consectetur.",
-          "img": "/images/service/service-03.png",
+          "img": "/images/home/trending-img-3.png",
           "bgThree": true,
           "bgOne": false,
           "bgTwo": false,
@@ -98,7 +98,7 @@
         {
           "title": "Education",
           "desc": "Lorem ipsum dolor sit, amet consectetur.",
-          "img": "/images/service/service-04.png",
+          "img": "/images/home/trending-img-1.png",
           "bgFour": true,
           "bgOne": false,
           "bgTwo": false,

@@ -21,6 +21,8 @@ const HeaderEight = ({
 }) => {
   const [isSticky, setIsSticky] = useState(false);
   // const { isLightTheme } = useAppContext();
+  const { mobile, setMobile, search, setSearch, cartToggle, setCart } =
+    useAppContext();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -52,13 +54,13 @@ const HeaderEight = ({
                 <div className="logo">
                   <Link href="/">
                     {/* {isLightTheme ? ( */}
-                      <Image
-                        src={logo}
-                        width={152}
-                        height={50}
-                        priority={true}
-                        alt="SixPharse Logo"
-                      />
+                    <Image
+                      src={logo}
+                      width={175}
+                      height={50}
+                      priority={true}
+                      alt="SixPhrase Logo"
+                    />
                     {/* ) : (
                       <Image
                         src={logoLight}
@@ -70,6 +72,18 @@ const HeaderEight = ({
                     )} */}
                   </Link>
                 </div>
+              </div>
+              <div className="access-icon d-none d-lg-block ml--30 ">
+                <Link
+                  className={`search-trigger-active pt--5 pb--5 pr--5 pl--5 border rounded-pill d-flex ${
+                    search ? "" : "open"
+                  }`}
+                  href="#"
+                  onClick={() => setSearch(!search)}
+                >
+                  <i className="feather-search mr--10 text-12"></i>
+                  <p style={{ fontSize: "12px" }}>Search</p>
+                </Link>
               </div>
 
               {/* <div className="header-info d-none d-lg-block">
@@ -83,8 +97,14 @@ const HeaderEight = ({
 
             <HeaderRightTwo
               userType="Admin"
-              btnText="Enroll Now"
-              btnClass="rbt-marquee-btn marquee-auto btn-border-gradient radius-round btn-sm hover-transform-none"
+              transparent="header-not-transparent header-sticky"
+              gapSpaceBetween=""
+              navigationEnd="rbt-navigation-end"
+              btnClass="rbt-switch-btn btn-blue btn-sm hover-transform-none"
+              btnText="Login"
+
+               btnText1="signup"
+              btnClass1="rbt-switch-btn btn-white btn-sm hover-transform-none"
             />
           </div>
         </div>

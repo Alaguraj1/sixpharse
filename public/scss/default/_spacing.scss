@@ -24,51 +24,51 @@
 
 
 .rbt-section-gap {
-    padding: 120px 0;
+    padding: 50px 0;
     @media #{$md-layout} {
-        padding: 80px 0;
+        padding: 30px 0;
     }
     @media #{$sm-layout} {
-        padding: 80px 0;
+        padding: 30px 0;
     }
 }
 
 .rbt-section-gap2 {
-    padding: 80px 0;
+    padding: 30px 0;
     @media #{$md-layout} {
-        padding: 80px 0;
+        padding: 30px 0;
     }
     @media #{$sm-layout} {
-        padding: 80px 0;
+        padding: 30px 0;
     }
 }
 
 .rbt-section-gapBottom {
-    padding-bottom: 120px;
+    padding-bottom: 50px;
     @media #{$md-layout} {
-        padding-bottom: 80px;
+        padding-bottom: 30px;
     }
     @media #{$sm-layout} {
-        padding-bottom: 80px;
+        padding-bottom: 30px;
     }
 }
 .rbt-section-gap2Bottom {
-    padding-bottom: 80px;
+    padding-bottom: 30px;
     @media #{$md-layout} {
-        padding-bottom: 80px;
+        padding-bottom: 30px;
     }
     @media #{$sm-layout} {
-        padding-bottom: 80px;
+        padding-bottom: 30px;
     }
 }
 
 .rbt-section-gapTop {
-    padding-top: 120px;
+    padding-top: 50px;
     @media #{$md-layout} {
-        padding-top: 80px;
+        padding-top: 30px;
     }
     @media #{$sm-layout} {
-        padding-top: 80px;
+        padding-top: 30px;
     }
 }
 
@@ -77,13 +77,17 @@
 }
 
 .rbt-section-gap2Top {
-    padding-top: 80px;
+    padding-top: 30px;
     @media #{$md-layout} {
-        padding-top: 80px;
+        padding-top: 30px;
     }
     @media #{$sm-layout} {
-        padding-top: 80px;
+        padding-top: 30px;
     }
+}
+
+.color-green {
+    color: #73b558;
 }
 
 .pb--165,

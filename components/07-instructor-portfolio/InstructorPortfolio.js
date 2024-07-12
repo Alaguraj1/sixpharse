@@ -13,6 +13,9 @@ import PricingFive from "../Pricing/Pricing-Five";
 import TestimonialSix from "../Testimonials/Testimonial-Six";
 import InstructorForm from "./InstructorForm";
 import NewsletterThree from "../Newsletters/Newsletter-Three";
+import CounterThree from "../Counters/Counter-Three";
+import CounterFour from "../Counters/Counter-Four";
+import CounterFive from "../Counters/Counter-Five";
 
 const InstructorPortfolio = () => {
   let getAllCourse = JSON.parse(JSON.stringify(CourseDetails.courseDetails));
@@ -223,7 +226,7 @@ const InstructorPortfolio = () => {
               </div>
             </div>
           </div>
-          <CounterSix head={false} />
+          <CounterFive head={false} />
         </div>
       </div>
 

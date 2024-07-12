@@ -28,7 +28,7 @@ const HomeCourses = ({ start, end }) => {
                     <Image
                       src={data.courseImg}
                       width={710}
-                      height={488}
+                      height={300}
                       alt="Card image"
                     />
                     {/* <div className="rbt-badge-3 bg-white">

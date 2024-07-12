@@ -13,7 +13,7 @@ const ServiceThree = ({ head }) => {
       {ServiceData &&
         ServiceData.serviceThree.map((data, index) => (
           <div className="container" key={index}>
-            {head === undefined ? (
+            {/* {head === undefined ? (
               <div className="row mb--60">
                 <div className="col-lg-12">
                   <div className="section-title text-center">
@@ -23,7 +23,7 @@ const ServiceThree = ({ head }) => {
               </div>
             ) : (
               ""
-            )}
+            )} */}
             <Swiper
               className="swiper service-item-3-activation  rbt-arrow-between gutter-swiper-30"
               slidesPerView={1}
@@ -51,21 +51,7 @@ const ServiceThree = ({ head }) => {
                 <SwiperSlide className="swiper-wrapper" key={innerIndex}>
                   <div className="swiper-slide">
                     <div className="single-slide">
-                      <div
-                        className={`rbt-service rbt-service-2 rbt-hover-02 bg-no-shadow ${
-                          item.bgOne
-                            ? "card-bg-1"
-                            : "" || item.bgTwo
-                            ? "card-bg-2"
-                            : "" || item.bgThree
-                            ? "card-bg-3"
-                            : "" || item.bgFour
-                            ? "card-bg-4"
-                            : ""
-                        }`}
-                      >
-                        <div className="inner">
-                          <div className="content">
+                      {/* <div className="content">
                             <h4 className="title">
                               <Link href="#">{item.title}</Link>
                             </h4>
@@ -92,16 +78,15 @@ const ServiceThree = ({ head }) => {
                                 </svg>
                               </i>
                             </Link>
-                          </div>
-                          <div className="thumbnail">
-                            <Image
-                              src={item.img}
-                              width={177}
-                              height={237}
-                              alt="Education Images"
-                            />
-                          </div>
-                        </div>
+                          </div> */}
+                      <div className="thumbnail img-fluid">
+                        <Image
+                          src={item.img}
+                          width={400}
+                          height={300}
+                          style={{ width: "100% ", height: "100%" }}
+                          alt="Education Images"
+                        />
                       </div>
                     </div>
                   </div>

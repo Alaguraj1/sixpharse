@@ -12,7 +12,7 @@ const MainDemoBanner = () => {
     <>
       <div className="container-fluid">
         <div className="row">
-          <div className="col-md-12 pb--120 pt--70 space-responsive-xxl">
+          <div className="col-md-12 pb--120 pt--40 space-responsive-xxl">
             <div className="content">
               <div className="inner">
                 <div className="rbt-new-badge rbt-new-badge-one">

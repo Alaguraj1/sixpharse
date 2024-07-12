@@ -10,17 +10,14 @@ const BrandThree = () => {
         BrandData.brandThree.map((data, index) => (
           <div className="row align-items-center" key={index}>
             <div className="col-lg-12">
-              <div className="section-title text-center mb--40">
-                <span className="small-title w-600">{data.title}</span>
-              </div>
-              <ul className="brand-list brand-style-3 justify-content-center justify-content-lg-between">
+              <ul className="brand-list brand-style-3 justify-content-center justify-content-lg-between  mt--20">
                 {data.brandLogo.map((item, innerIndex) => (
                   <li key={innerIndex}>
                     <Link href="#">
                       <Image
                         src={item.img}
-                        width={item.width}
-                        height={item.height}
+                      width={130}
+                      height={100}
                         priority={true}
                         alt="Brand Image"
                       />

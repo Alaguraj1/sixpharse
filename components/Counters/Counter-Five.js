@@ -24,7 +24,7 @@ const CounterFive = () => {
                 <div className="rbt-counterup style-2">
                   <div className="inner">
                     <div className="content">
-                      <h3 className="counter">
+                      <h3 className="counter color-white">
                         <span className="odometer">
                           <Odometer
                             value={
@@ -33,7 +33,7 @@ const CounterFive = () => {
                           />
                         </span>
                       </h3>
-                      <span className="subtitle">{data.text}</span>
+                      <span className="subtitle color-white">{item.text}</span>
                     </div>
                   </div>
                 </div>
