@@ -16,8 +16,8 @@ const BrandThree = () => {
                     <Link href="#">
                       <Image
                         src={item.img}
-                      width={150}
-                      height={150}
+                      width={130}
+                      height={100}
                         priority={true}
                         alt="Brand Image"
                       />

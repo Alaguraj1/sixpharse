@@ -320,7 +320,7 @@ const MainDemo = () => {
               <div className="col-lg-6 col-md-6">
                 <div className="section-title text-start">
                   <h3 className="title">
-                    Choose Internship That's
+                    Choose Internship That&rsquo;s
                     <span className="color-green"> Right For You</span>
                   </h3>
                   {/* <p className="description has-small-font-size mt--10">
@@ -438,7 +438,7 @@ const MainDemo = () => {
                 <div className="section-title text-center color-white">
                   <h3 className="title color-white">Why Six Phrase</h3>
                   <p className="description has-medium-font-size mt--20">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text
                   </p>
                 </div>
               </div>

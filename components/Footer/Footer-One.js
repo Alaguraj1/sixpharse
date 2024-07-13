@@ -28,23 +28,13 @@ const FooterOne = ({ bgColor }) => {
                     <div className="footer-widget">
                       <div className="logo">
                         <Link href="/">
-                          {isLightTheme ? (
-                            <Image
-                              src={logo}
-                              width={152}
-                              height={50}
-                              priority={true}
-                              alt="Education Logo Images"
-                            />
-                          ) : (
-                            <Image
-                              src={logoLight}
-                              width={152}
-                              height={50}
-                              priority={true}
-                              alt="Education Logo Images"
-                            />
-                          )}
+                          <Image
+                            src={logo}
+                            width={152}
+                            height={50}
+                            priority={true}
+                            alt="Education Logo Images"
+                          />
                         </Link>
                       </div>
 
