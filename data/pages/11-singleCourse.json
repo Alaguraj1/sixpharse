@@ -113,25 +113,45 @@
   ],
   "courseContent": [
     {
-      "title": "Intro to Course and Histudy",
+      "title": "Facilisi nullam vehicula",
       "isShow": true,
       "list": [
         {
-          "text": "Course Intro",
+          "text": "Web Developer",
           "isPlay": true,
           "isDoc": false,
           "isLoc": false,
           "min": 30
         },
         {
-          "text": "Watch Before Start",
+          "text": "Content Writing",
           "isPlay": true,
           "isDoc": false,
           "isLoc": false,
           "min": 0.5
         },
         {
-          "text": "Read Before You Start",
+          "text": "UI / UX Designer",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
+        }, {
+          "text": "Digital Marketing",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Data Science",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Technology",
           "isPlay": false,
           "isDoc": true,
           "isLoc": false,
@@ -140,380 +160,425 @@
       ]
     },
     {
-      "title": "15 Things To Know About Education?",
+      "title": "Contrary to popular belief",
       "isShow": false,
-      "list": [
+     "list": [
         {
-          "text": "Course Intro",
+          "text": "Web Developer",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 30
         },
         {
-          "text": "Read Before You Start",
-          "isPlay": false,
-          "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Why You Should Not Go To Education.",
+          "text": "Content Writing",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 0.5
         },
         {
-          "text": "Read Before You Start",
+          "text": "UI / UX Designer",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Ten Factors That Affect Education's Longevity.",
-          "isPlay": true,
-          "isDoc": false,
-          "isLoc": true
-        },
-        {
-          "text": "Read Before You Start",
+          "isLoc": false,
+          "min": 10
+        }, {
+          "text": "Digital Marketing",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Data Science",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Technology",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
         }
       ]
     },
     {
-      "title": "Course Fundamentals",
+      "title": "There are many variations of passages",
       "isShow": false,
-      "list": [
+    "list": [
         {
-          "text": "Course Intro",
+          "text": "Web Developer",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 30
         },
         {
-          "text": "Read Before You Start",
-          "isPlay": false,
-          "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Why You Should Not Go To Education.",
+          "text": "Content Writing",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 0.5
         },
         {
-          "text": "Read Before You Start",
+          "text": "UI / UX Designer",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Ten Factors That Affect Education's Longevity.",
-          "isPlay": true,
-          "isDoc": false,
-          "isLoc": true
-        },
-        {
-          "text": "Read Before You Start",
+          "isLoc": false,
+          "min": 10
+        }, {
+          "text": "Digital Marketing",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Data Science",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Technology",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
         }
       ]
     },
     {
-      "title": "You can develop skill and setup",
+      "title": "The standard chunk of Lorem Ipsum",
       "isShow": false,
-      "list": [
+     "list": [
         {
-          "text": "Course Intro",
+          "text": "Web Developer",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 30
         },
         {
-          "text": "Read Before You Start",
-          "isPlay": false,
-          "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Why You Should Not Go To Education.",
+          "text": "Content Writing",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 0.5
         },
         {
-          "text": "Read Before You Start",
+          "text": "UI / UX Designer",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Ten Factors That Affect Education's Longevity.",
-          "isPlay": true,
-          "isDoc": false,
-          "isLoc": true
-        },
-        {
-          "text": "Read Before You Start",
+          "isLoc": false,
+          "min": 10
+        }, {
+          "text": "Digital Marketing",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Data Science",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Technology",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
         }
       ]
     },
     {
-      "title": "Course Description",
+      "title": "Facilisi nullam vehicula",
       "isShow": false,
       "list": [
         {
-          "text": "Course Intro",
+          "text": "Web Developer",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 30
         },
         {
-          "text": "Read Before You Start",
-          "isPlay": false,
-          "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Why You Should Not Go To Education.",
+          "text": "Content Writing",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 0.5
         },
         {
-          "text": "Read Before You Start",
+          "text": "UI / UX Designer",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Ten Factors That Affect Education's Longevity.",
-          "isPlay": true,
-          "isDoc": false,
-          "isLoc": true
-        },
-        {
-          "text": "Read Before You Start",
+          "isLoc": false,
+          "min": 10
+        }, {
+          "text": "Digital Marketing",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Data Science",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Technology",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
         }
       ]
     },
     {
-      "title": "Route 53",
+      "title": "There are many variations of passages",
       "isShow": false,
       "list": [
         {
-          "text": "Course Intro",
+          "text": "Web Developer",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 30
         },
         {
-          "text": "Read Before You Start",
-          "isPlay": false,
-          "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Why You Should Not Go To Education.",
+          "text": "Content Writing",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 0.5
         },
         {
-          "text": "Read Before You Start",
+          "text": "UI / UX Designer",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Ten Factors That Affect Education's Longevity.",
-          "isPlay": true,
-          "isDoc": false,
-          "isLoc": true
-        },
-        {
-          "text": "Read Before You Start",
+          "isLoc": false,
+          "min": 10
+        }, {
+          "text": "Digital Marketing",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Data Science",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Technology",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
         }
       ]
     },
     {
-      "title": "EC2 Instance Storage",
+      "title": "The standard chunk of Lorem Ipsum",
       "isShow": false,
-      "list": [
+     "list": [
         {
-          "text": "Course Intro",
+          "text": "Web Developer",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 30
         },
         {
-          "text": "Read Before You Start",
-          "isPlay": false,
-          "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Why You Should Not Go To Education.",
+          "text": "Content Writing",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 0.5
         },
         {
-          "text": "Read Before You Start",
+          "text": "UI / UX Designer",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Ten Factors That Affect Education's Longevity.",
-          "isPlay": true,
-          "isDoc": false,
-          "isLoc": true
-        },
-        {
-          "text": "Read Before You Start",
+          "isLoc": false,
+          "min": 10
+        }, {
+          "text": "Digital Marketing",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Data Science",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Technology",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
         }
       ]
     },
     {
-      "title": "IAM & AWS CLI",
+      "title": "There are many variations of passages",
       "isShow": false,
-      "list": [
+    "list": [
         {
-          "text": "Course Intro",
+          "text": "Web Developer",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 30
         },
         {
-          "text": "Read Before You Start",
-          "isPlay": false,
-          "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Why You Should Not Go To Education.",
+          "text": "Content Writing",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 0.5
         },
         {
-          "text": "Read Before You Start",
+          "text": "UI / UX Designer",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Ten Factors That Affect Education's Longevity.",
-          "isPlay": true,
-          "isDoc": false,
-          "isLoc": true
-        },
-        {
-          "text": "Read Before You Start",
+          "isLoc": false,
+          "min": 10
+        }, {
+          "text": "Digital Marketing",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Data Science",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Technology",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
         }
       ]
     },
     {
-      "title": "Getting started with AWS",
+      "title": "The standard chunk of Lorem Ipsum",
       "isShow": false,
-      "list": [
+    "list": [
         {
-          "text": "Course Intro",
+          "text": "Web Developer",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 30
         },
         {
-          "text": "Read Before You Start",
-          "isPlay": false,
-          "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Why You Should Not Go To Education.",
+          "text": "Content Writing",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 0.5
         },
         {
-          "text": "Read Before You Start",
+          "text": "UI / UX Designer",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Ten Factors That Affect Education's Longevity.",
-          "isPlay": true,
-          "isDoc": false,
-          "isLoc": true
-        },
-        {
-          "text": "Read Before You Start",
+          "isLoc": false,
+          "min": 10
+        }, {
+          "text": "Digital Marketing",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Data Science",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Technology",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
         }
       ]
     },
     {
-      "title": "EC2 Fundamentals",
+      "title": "Facilisi nullam vehicula",
       "isShow": false,
-      "list": [
+     "list": [
         {
-          "text": "Course Intro",
+          "text": "Web Developer",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 30
         },
         {
-          "text": "Read Before You Start",
-          "isPlay": false,
-          "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Why You Should Not Go To Education.",
+          "text": "Content Writing",
           "isPlay": true,
           "isDoc": false,
-          "isLoc": true
+          "isLoc": false,
+          "min": 0.5
         },
         {
-          "text": "Read Before You Start",
+          "text": "UI / UX Designer",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
-        },
-        {
-          "text": "Ten Factors That Affect Education's Longevity.",
-          "isPlay": true,
-          "isDoc": false,
-          "isLoc": true
-        },
-        {
-          "text": "Read Before You Start",
+          "isLoc": false,
+          "min": 10
+        }, {
+          "text": "Digital Marketing",
           "isPlay": false,
           "isDoc": true,
-          "isLoc": true
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Data Science",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
+        },
+        {
+          "text": "Technology",
+          "isPlay": false,
+          "isDoc": true,
+          "isLoc": false,
+          "min": 10
         }
       ]
     }

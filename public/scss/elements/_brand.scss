@@ -141,12 +141,12 @@
         a {
             display: block;
             img {
-                max-height: 35px;
+                max-height: 45px;
                 @media #{$md-layout} {
-                    max-height: 25px;
+                    max-height: 45px;
                 }
                 @media #{$sm-layout} {
-                    max-height: 25px;
+                    max-height: 45px;
                 }
             }
         }

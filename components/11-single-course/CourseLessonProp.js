@@ -4,7 +4,7 @@ import Image from "next/image";
 
 import "venobox/dist/venobox.min.css";
 
-const CourseLessonProp = ({ courseImg,courseContent }) => {
+const CourseLessonProp = ({ courseImg, courseContent }) => {
   useEffect(() => {
     import("venobox/dist/venobox.min.js").then((venobox) => {
       new venobox.default({
@@ -25,14 +25,14 @@ const CourseLessonProp = ({ courseImg,courseContent }) => {
                 height={428}
                 alt="Card image"
               />
-              <Link
+              {/* <Link
                 className="rbt-btn rounded-player-2 popup-video position-to-top with-animation btn-white-color"
                 data-vbtype="video"
                 controls
                 href="https://www.youtube.com/watch?v=nA1Aqp0sPQo"
               >
                 <span className="play-icon"></span>
-              </Link>
+              </Link> */}
             </div>
             <div className="enroll-btn mt--15">
               <Link
@@ -89,30 +89,17 @@ const CourseLessonProp = ({ courseImg,courseContent }) => {
                             <li key={i}>
                               <a href="#">
                                 <div className="course-content-left">
-                                  <i
+                                  {/* <i
                                     className={`feather-${
                                       list.isPlay ? "play-circle" : "file-text"
                                     }`}
-                                  ></i>
+                                  ></i> */}
                                   <span className="text">{list.text}</span>
                                 </div>
-                                <div
-                                  className={`course-content-right ${
-                                    list.isLoc ? "only-lock" : ""
-                                  }`}
-                                >
-                                  {list.isLoc ? (
-                                    <i className="feather-lock"></i>
-                                  ) : (
-                                    <>
-                                      <span className="rbt-badge bg-pink-opacity">
-                                        {list.min} min
-                                      </span>
-                                      <span className="rbt-badge bg-primary-opacity">
-                                        Preview
-                                      </span>
-                                    </>
-                                  )}
+                                <div className={`course-content-right `}>
+                                  <span className="rbt-badge bg-primary-opacity">
+                                    Know More
+                                  </span>
                                 </div>
                               </a>
                             </li>

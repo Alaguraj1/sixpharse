@@ -29,17 +29,17 @@
         position: relative;
 
         @media #{$lg-layout} {
-            padding: 0px 20px;
+            padding: 0px 15px;
         }
 
         @media #{$md-layout} {
-            padding: 0px 24px;
+            padding: 0px 15px;
         }
 
         @media #{$sm-layout} {
-            padding: 0 20px;
-            height: 48px;
-            line-height: 48px;
+            padding: 0 15px;
+            height: 35px;
+            line-height: 35px;
             margin: 5px;
             font-size: 16px;
         }

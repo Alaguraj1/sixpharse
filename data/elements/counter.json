@@ -186,24 +186,24 @@
     {
       "body": [
         {
-          "text": "Learners & counting",
-          "num": 500,
-          "img": "/images/icons/counter-01.png"
+          "text": "Companies Hiring",
+          "num": 300,
+          "countText": "K"
         },
         {
-          "text": "Courses & Video",
-          "num": 800,
-          "img": "/images/icons/counter-02.png"
+          "text": "New Opening",
+          "num": 10,
+         "countText": "K"
         },
         {
-          "text": "Certified Students",
-          "num": 1000,
-          "img": "/images/icons/counter-03.png"
+          "text": "Active Students",
+          "num": 21,
+          "countText": "Mn"
         },
         {
-          "text": "Certified Students",
-          "num": 100,
-          "img": "/images/icons/counter-04.png"
+          "text": "Learners",
+          "num": 600,
+           "countText": "K"
         }
       ]
     }

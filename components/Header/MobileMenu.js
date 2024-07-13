@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import logo from "../../public/images/logo/logo.png";
+import logo from "../../public/images/home/header-logo.png";
 import logoLight from "../../public/images/dark/logo/logo-light.png";
 
 import Nav from "./Nav";
@@ -47,17 +47,17 @@ const MobileMenu = () => {
               </div>
             </div>
             <p className="description">
-              Histudy is a education website template. You can customize all.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
             </p>
             <ul className="navbar-top-left rbt-information-list justify-content-start">
               <li>
-                <Link href="mailto:hello@example.com">
-                  <i className="feather-mail"></i>example@gmail.com
+                <Link href="mailto:sixphrase@gmail.com">
+                  <i className="feather-mail"></i>sixphrase@gmail.com
                 </Link>
               </li>
               <li>
-                <Link href="#">
-                  <i className="feather-phone"></i>(302) 555-0107
+                <Link href="tel:+91 9994675750">
+                  <i className="feather-phone"></i>+91 9994675750
                 </Link>
               </li>
             </ul>
@@ -71,7 +71,7 @@ const MobileMenu = () => {
                 className="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center"
                 href="#"
               >
-                <span>Enroll Now</span>
+                <span>Login</span>
               </Link>
             </div>
 
@@ -79,22 +79,22 @@ const MobileMenu = () => {
               <span className="rbt-short-title d-block">Find With Us</span>
               <ul className="social-icon social-default transparent-with-border justify-content-start mt--20">
                 <li>
-                  <Link href="https://www.facebook.com/">
+                  <Link href="https://www.facebook.com/sixphraseveranda/">
                     <i className="feather-facebook"></i>
                   </Link>
                 </li>
                 <li>
-                  <Link href="https://www.twitter.com">
+                  <Link href="https://twitter.com/sixphrase">
                     <i className="feather-twitter"></i>
                   </Link>
                 </li>
                 <li>
-                  <Link href="https://www.instagram.com/">
+                  <Link href="https://www.instagram.com/sixphraseveranda/">
                     <i className="feather-instagram"></i>
                   </Link>
                 </li>
                 <li>
-                  <Link href="https://www.linkdin.com/">
+                  <Link href="https://www.linkedin.com/company/sixphraseveranda/">
                     <i className="feather-linkedin"></i>
                   </Link>
                 </li>

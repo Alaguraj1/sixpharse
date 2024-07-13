@@ -50,7 +50,7 @@ const HomeCourses = ({ start, end }) => {
                   </ul>
                   <h4 className="rbt-card-title">
                     <Link href={`/course-details/${data.id}`}>
-                      {data.courseTitle}
+                      {data.courseTitle.substring(0, 30)}
                     </Link>
                   </h4>
                   <p className="rbt-card-text">{data.desc.substring(0, 100)}</p>

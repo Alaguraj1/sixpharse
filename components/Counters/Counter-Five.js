@@ -30,7 +30,7 @@ const CounterFive = () => {
                             value={
                               values[index * data.body.length + innerIndex]
                             }
-                          />
+                          /> {item.countText}
                         </span>
                       </h3>
                       <span className="subtitle color-white">{item.text}</span>

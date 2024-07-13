@@ -22,7 +22,7 @@ const NewsletterTwo = () => {
                   <h3 className="title">
                     {data.title}<span className="color-green"> {data.green}</span> 
                   </h3>
-                  <p className="description mt--20">{data.desc}</p>
+                  <p className="description mt--20 font-weight-500">{data.desc}</p>
                 </div>
                 <form action="#" className="newsletter-form-1 mt--40">
                   <input type="email" placeholder="Enter Your E-Email" />
@@ -62,9 +62,9 @@ const NewsletterTwo = () => {
                               </span>
                             </h3>
                             <h5 className="title ">{item.title}</h5>
-                            <span className="subtitle ">
+                            {/* <span className="subtitle ">
                               {item.subTitle}
-                            </span>
+                            </span> */}
                           </div>
                         </div>
                       </div>

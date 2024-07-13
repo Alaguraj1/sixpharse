@@ -349,83 +349,84 @@
           "img": "/images/home/icon-1.png",
           "wtd": 50,
           "ht": 50,
-          "title": "Martha Maldonado",
-          "position": "CEO",
-          "desc": "After the launch, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit."
+          "title": "Coding Practice",
+          "position": "400+ Questions",
+          "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
         },
         {
           "client": "/images/testimonial/client-02.png",
           "img": "/images/home/icon-2.png",
           "wtd": 50,
           "ht": 50,
-          "title": "Michael D. Lovelady",
-          "position": "CEO",
-          "desc": "Histudy education, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit. Vestibulum eget risus velit."
+          "title": "Interview Prepration",
+          "position": "50+ Companies",
+          "desc": "As opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
         },
         {
           "client": "/images/testimonial/client-03.png",
           "img": "/images/home/icon-3.png",
           "wtd": 50,
           "ht": 50,
-          "title": "Valerie J. Creasman",
-          "position": "CEO",
-          "desc": "Our educational, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit nisi. "
+          "title": "Projects",
+          "position": "25+ Projects",
+          "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
         },
         {
           "client": "/images/testimonial/client-04.png",
           "img": "/images/home/icon-4.png",
           "wtd": 50,
           "ht": 50,
-          "title": "Hannah R. Sutton",
-          "position": "CEO",
-          "desc": "People says about, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit."
+          "title": "Skills Assessment",
+          "position": "1000+ Questions",
+          "desc": "As opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
         },
         {
           "client": "/images/testimonial/client-05.png",
           "img": "/images/home/icon-1.png",
           "wtd": 50,
           "ht": 50,
-          "title": "Pearl B. Hill",
-          "position": "Marketing",
-          "desc": "Like this histudy, vulputate at sapien sit amet,auctor iaculis lorem. In vel hend rerit."
+          "title": "Coding Practice",
+          "position": "400+ Questions",
+          "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
         },
         {
           "client": "/images/testimonial/client-06.png",
           "img": "/images/home/icon-2.png",
           "wtd": 50,
           "ht": 50,
-          "title": "Mandy F. Wood",
-          "position": "CEO",
-          "desc": "Educational template, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit."
+          "title": "Interview Prepration",
+          "position": "50+ Companies",
+          "desc": "when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
         },
         {
           "client": "/images/testimonial/client-07.png",
           "img": "/images/home/icon-3.png",
           "wtd": 50,
           "ht": 50,
-          "title": "Mildred W. Diaz",
-          "position": "Executive",
-          "desc": "Online leaning, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit nisi. Vestibulum eget risus velit."
+          "title": "Projects",
+          "position": "25+ Projects",
+          "desc": "remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
         },
         {
           "client": "/images/testimonial/client-08.png",
           "img": "/images/home/icon-4.png",
           "wtd": 50,
           "ht": 50,
-          "title": "Christopher H. Win",
-          "position": "CEO",
-          "desc": "Remote learning, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit nisi. Vestibulum eget risus velit."
+          "title": "Skills Assessment",
+          "position": "1000+ Questions",
+          "desc": "when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
         },
         {
           "client": "/images/testimonial/client-09.png",
           "img": "/images/home/icon-1.png",
           "wtd": 50,
           "ht": 50,
-          "title": "Martha Maldonado",
-          "position": "SR Designer",
-          "desc": "University managemnet, vulputate at sapien sit amet, auctor iaculis lorem. In vel hend rerit nisi."
+          "title": "Coding Practice",
+          "position": "400+ Questions",
+          "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
         }
       ],
+
       "right": [
         {
           "client": "/images/testimonial/client-01.png",

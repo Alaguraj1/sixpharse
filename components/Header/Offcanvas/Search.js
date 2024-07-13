@@ -51,7 +51,7 @@ const Search = () => {
                   <div className="rbt-card-body">
                     <h5 className="rbt-card-title">
                       <a href={`/course-details/${data.id}`}>
-                        {data.courseTitle}
+                        {data.courseTitle?.substring(0, 30)}
                       </a>
                     </h5>
                     <div className="rbt-review">

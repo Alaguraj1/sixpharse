@@ -41,10 +41,10 @@
                 }
 
                 &[aria-expanded="true"] {
-                    color: var(--color-primary);
+                    color: #136b9b;
                     &::before {
                         @extend %theme-gradient;
-                        color: var(--color-primary);
+                        color: #136b9b;
                     }
                 }
                 &::before {

@@ -9,18 +9,18 @@ const AboutSix = ({ btnClass, btnText }) => {
       {AboutData &&
         AboutData.aboutSix.map((data, index) => (
           <div className="row g-5 align-items-center" key={index}>
-            <div className="col-lg-6 pr--0">
-              <div className="content d-flex justify-content-end">
+            <div className="col-lg-6 pr--0 pl--0">
+              <div className="content d-flex justify-content-end" style={{width:"100%"}}>
                 <Image
                   src={data.img}
                   width={500}
-                  height={410}
+                  height={410} style={{width:"100%",height:"auto"}}
                   alt="About Images"
                 />
               </div>
             </div>
             <div className="col-lg-6 levelup-skills-content d-flex justify-content-start">
-              <div className="inner pl--30 pl_sm--5 pr--30 pr_sm--5 pt--30 pt_sm--30 pb--30 pb_sm--30">
+              <div className="inner pl--30 pl_sm--5 pr--30 pr_sm--5 pt--30 pt_sm--30 pb--30 pb_sm--30 levelup-skills-content-main">
                 <div className="section-title text-start">
                   {/* <span className="subtitle bg-primary-opacity">
                     {data.tag}

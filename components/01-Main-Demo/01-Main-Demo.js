@@ -22,9 +22,9 @@ import AboutSix from "../Abouts/About-Six";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
-import imgOne from "../../public/images/gallery/gallery-03.jpg";
-import imgTwo from "../../public/images/gallery/gallery-01.jpg";
-import imgThree from "../../public/images/gallery/gallery-05.jpg";
+import imgOne from "../../public/images/home/pick-img-1.png";
+import imgTwo from "../../public/images/home/pick-img-2.png";
+import imgThree from "../../public/images/home/pick-img-3.png";
 import hiImgOne from "../../public/images/home/personal mentor img.jpg";
 import hiImgTwo from "../../public/images/home/personal mentor img.jpg";
 import hiImgThree from "../../public/images/home/personal mentor img.jpg";
@@ -33,7 +33,7 @@ import Image from "next/image";
 import CourseDetails from "../../data/course-details/courseData.json";
 import SingleCourseData from "../../data/pages/11-singleCourse.json";
 import CourseLessonProp from "../11-single-course/CourseLessonProp";
-import courseImg from "../../public/images/course/course-content.jpg";
+import courseImg from "../../public/images/home/choose-inter-img.png";
 import CounterSix from "../Counters/Counter-Six";
 import CounterFive from "../Counters/Counter-Five";
 
@@ -67,7 +67,7 @@ const MainDemo = () => {
                 </div>
               </div>
             </div>
-            <div className="row g-5 mt--20">
+            <div className="row g-5 mt--40 ">
               <BrandThree />
             </div>
           </div>
@@ -81,9 +81,9 @@ const MainDemo = () => {
                   {/* <span className="subtitle bg-pink-opacity">
                     ONLINE COURSE
                   </span> */}
-                  <h3 className="title">
+                  <h4 className="title">
                     Trending On <span className="color-green">Six Phrase</span>
-                  </h3>
+                  </h4>
                 </div>
               </div>
             </div>
@@ -271,7 +271,7 @@ const MainDemo = () => {
                         <div className="rbt-card-bottom">
                           <Link
                             className="transparent-button"
-                            href={`/course-details/${data.id}`}
+                            href={`/#`}
                           >
                             <svg
                               width="17"
@@ -294,15 +294,15 @@ const MainDemo = () => {
                         </div>
                       </div>
                       <div className="card-information">
-                        <div className="card-flag">
+                        {/* <div className="card-flag">
                           <Image
                             src={data.countryFlag}
                             width={21}
                             height={21}
                             alt="united-kingdom"
                           />
-                        </div>
-                        <div className="card-count">{data.lesson} programs</div>
+                        </div> */}
+                        <div className="card-count">{data.lesson} </div>
                       </div>
                     </div>
                   </div>
@@ -383,7 +383,7 @@ const MainDemo = () => {
                     </Link>
                     <div className="hover-content">
                       <h3 className="title">
-                        <Link href="#">Vue-Js</Link>
+                        <Link href="#">Training</Link>
                       </h3>
                     </div>
                   </div>
@@ -402,7 +402,7 @@ const MainDemo = () => {
                     </Link>
                     <div className="hover-content">
                       <h3 className="title">
-                        <Link href="#">React Js</Link>
+                        <Link href="#">Question & Answers</Link>
                       </h3>
                     </div>
                   </div>
@@ -421,7 +421,7 @@ const MainDemo = () => {
                     </Link>
                     <div className="hover-content">
                       <h3 className="title">
-                        <Link href="#">Javascript</Link>
+                        <Link href="#">Hackathons</Link>
                       </h3>
                     </div>
                   </div>
@@ -438,9 +438,7 @@ const MainDemo = () => {
                 <div className="section-title text-center color-white">
                   <h3 className="title color-white">Why Six Phrase</h3>
                   <p className="description has-medium-font-size mt--20">
-                    Learning new technology, data sience, university,
-                    communicate to global world and build a bright future with
-                    our histudy.
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text
                   </p>
                 </div>
               </div>

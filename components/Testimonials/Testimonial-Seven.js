@@ -30,11 +30,13 @@ const TestimonialSeven = () => {
                       </div>
                       <h5 className="title mt--20 mb--0">{item.title}</h5>
                       <div className="description">
-                        <p className="subtitle-3">{item.desc}</p>
+                        <p className="subtitle-3">
+                          {item.desc.substring(0, 100)}
+                        </p>
                         <div className="clint-info-wrapper">
                           <div className="client-info pl--0">
-                            <p >
-                              {item.title} <i>{item.position}</i>
+                            <p>
+                              <i>{item.position}</i>
                             </p>
                           </div>
                         </div>
@@ -58,7 +60,7 @@ const TestimonialSeven = () => {
                   className="single-column-20 bg-theme-gradient-even bg-theme-gradient-odd"
                   key={innerIndex}
                 >
-               <div className="rbt-testimonial-box style-2">
+                  <div className="rbt-testimonial-box style-2">
                     <div className="inner">
                       <div className="icons">
                         <Image
@@ -70,11 +72,13 @@ const TestimonialSeven = () => {
                       </div>
                       <h5 className="title mt--20 mb--0">{item.title}</h5>
                       <div className="description">
-                        <p className="subtitle-3">{item.desc}</p>
+                        <p className="subtitle-3">
+                          {item.desc.substring(0, 100)}
+                        </p>
                         <div className="clint-info-wrapper">
                           <div className="client-info pl--0">
-                            <p >
-                              {item.title} <i>{item.position}</i>
+                            <p>
+                              <i>{item.position}</i>
                             </p>
                           </div>
                         </div>
